@@ -1,2 +1,3 @@
 # test-repo-17
-Test repository 17
+
+This is a test repository automatically created by script.
